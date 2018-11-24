@@ -21,8 +21,6 @@
 The Pulsar Python client library is based on the existing C++ client library.
 All the same features are exposed through the Python interface.
 
-Currently, the only supported Python version is 2.7.
-
 ## Install from PyPI
 
 Download Python wheel binary files for MacOS and Linux
